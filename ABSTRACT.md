@@ -1,4 +1,4 @@
-**Google Recaptcha V2 Image** is a dataset for object detection and classification tasks. The dataset consists of 11730 images with 2584 labeled objects belonging to 3 different classes including *stair*, *crosswalk*, and *chimney*. The dataset contains 12 category: ***car***, ***other*** , ***crosswalk*** , ***bus***, ***hydrant***, ***palm***, ***traffic_light***, ***bicycle***, ***bridge***, ***stair***, ***chimney***, and ***motorcycle***. Google Recaptcha V2 Image dataset is a part of Recaptcha V2 Solve.
+The **Google Recaptcha V2 Image** dataset is tailored for object detection and classification assignments. Comprising 11,730 images with 2,584 labeled objects falling into three distinct classes — *stair*, *crosswalk*, and *chimney* — this dataset features a range of 12 categories, including ***car***, ***other***, ***crosswalk***, ***bus***, ***hydrant***, ***palm***, ***traffic_light***, ***bicycle***, ***bridge***, ***stair***, ***chimney***, and ***motorcycle***. Forming a segment of Recaptcha V2 Solve, this dataset offers a diverse array of images designed to facilitate tasks in object detection and classification.
 
 ## Motivation 
 
