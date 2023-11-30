@@ -1,6 +1,6 @@
 Dataset **Google Recaptcha Image** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/H/8/vV/7kYh4VF03tUXoJNP0TanCBTp0oxP0DpaTGP4a6NQaCKEFLeoq4shApEEn9SoG7JgrKmktRY0TxKmDVdNNMhFPLZX9BjgRrURWwLdG7om0p87a5t4NzR2lvdiJDsz.tar)
+ [Download](https://www.dropbox.com/scl/fi/tjrchse9dhl00vejtkpoq/google-recaptcha-image-DatasetNinja.tar?rlkey=s45vzj09vxux8kvtti55poqv0&dl=1)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
